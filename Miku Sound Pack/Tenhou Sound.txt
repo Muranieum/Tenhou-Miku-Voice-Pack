@@ -1,0 +1,6 @@
+yaku = tick sound per yaku
+agari = sound after tsumo before yaku
+da = tile clack coming down
+kachi = tile shuffle sound + tsumo sound
+naki = riichi button prompt sound
+tick = timer tick sound
